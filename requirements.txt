@@ -1,4 +1,5 @@
 falcon==2.0.0
+gunicorn==19.9.0
 joblib==0.14.0
 numpy==1.17.3
 rethinkdb==2.3.0.post6
