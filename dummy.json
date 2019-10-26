@@ -1,0 +1,351 @@
+[
+ {
+ "channel": "Facebook",
+ "origin": "Juan Gomez Azaures",
+ "msg": "Buenos dias porfavor podrian indicarme como usar el producto que acabo de recibir",
+ "datetime": "11/10/2019 09:10:30 a.m.",
+ "client": "1"
+},
+{
+ "channel": "Twitter",
+ "origin": "@Perez_daniela",
+ "msg": "Hola, buenas tardes me podrian decir porque no me vino el shampoo , si se suponia que estaba dentro de lo que mande a pedir",
+ "datetime": "12/13/2019 06:10:30 p.m.",
+ "client": "2"
+},
+{
+ "channel": "Instagram",
+ "origin": "@Per_juan",
+ "msg": "Hola, buenas noches me parece que para cobrar tanto el servicio de internet es pesimo , llevo 3 dias sin internet!, sinceramente que pesimo servicio",
+ "datetime": "12/12/2019 12:10:30 a.m.",
+ "client": "3"
+},
+{
+ "channel": "Whatsapp",
+ "origin": "+573164567789",
+ "msg": "Hola , buenas tardes , lo que sucede es que pedi unos tenis desde su tienda y ya van mas de 1 mes y no me han llegado",
+ "datetime": "13/11/2019 08:10:30 p.m.",
+ "client": "4"
+},
+{
+ "channel": "Whatsapp",
+ "origin": "+571234567890",
+ "msg": "Hola, lo que sucede es que agende una cita general en su EPS pero necesito saber si me la pueden re agendar ",
+ "datetime": "12/10/2019 06:10:30 a.m.",
+ "client": "5"
+},
+{
+ "channel": "Facebook",
+ "origin": "Ana Rodriguez",
+ "msg": "Buenos dias porfavor podrian indicarme como si este producto se encuentra en stock",
+ "datetime": "11/11/2019 09:10:30 a.m.",
+ "client": "1"
+},
+{
+ "channel": "Twitter",
+ "origin": "@Pedro_ca",
+ "msg": "Hola, buenos dias mi tratamiento para el cabello no me funciona , mi cabello sigue sin crecer, me sigo quedando calvo",
+ "datetime": "12/13/2019 11:10:30 a.m.",
+ "client": "2"
+},
+{
+ "channel": "Instagram",
+ "origin": "@Ochoa_c",
+ "msg": "Hola, buenas noches me podrian decir porque el tecnico encargado de la revision , nunca llego a la cita agendada",
+ "datetime": "12/12/2019 12:05:30 p.m.",
+ "client": "3"
+},
+{
+ "channel": "Whatsapp",
+ "origin": "+573164567589",
+ "msg": "Hola , buenas tardes , lo que sucede es que pedi unos tenis desde su tienda y me llegaron dañados , me podrian devolver  el dinero",
+ "datetime": "13/11/2019 08:10:31 p.m.",
+ "client": "4"
+},
+{
+ "channel": "Whatsapp",
+ "origin": "+571234567490",
+ "msg": "Hola, lo que sucede es que agende una cita con el especialista pero cuando llegue a la clinica no me atendieron ",
+ "datetime": "12/10/2019 06:10:30 a.m.",
+ "client": "5"
+},{
+ "channel": "Facebook",
+ "origin": "Mateo Vanegas",
+ "msg": "Buenas tardes queria saber si tienen algun producto en stock que no este en la pagina",
+ "datetime": "11/12/2019 09:10:30 p.m.",
+ "client": "1"
+},
+{
+ "channel": "Twitter",
+ "origin": "@Juanirijilla",
+ "msg": "Hola, buenas tardes para averiguar en que sucursal de la tienda tienen crema para la piel #2",
+ "datetime": "12/12/2019 10:10:30 p.m.",
+ "client": "2"
+},
+{
+ "channel": "Instagram",
+ "origin": "@SosaQ",
+ "msg": "Hola, buenas noches me podrian ayudar es que no me funciona el decodificador",
+ "datetime": "12/12/2019 08:10:30 p.m.",
+ "client": "3"
+},
+{
+ "channel": "Whatsapp",
+ "origin": "+573164533789",
+ "msg": "Hola , buenas tardes , lo que sucede es que pedi unos sueteres y me vinieron los que no eran, osea que les pasa es enserio , que pesimo servicio ",
+ "datetime": "13/11/2019 03:10:30 p.m.",
+ "client": "4"
+},
+{
+ "channel": "Whatsapp",
+ "origin": "+571232267890",
+ "msg": "Hola, lo que sucede es que el dia de ayer me quede esperando toda la tarde para agendar una cita y no pude ,de verdad que que mal servicio , cuando carajos van a agendarme la cita",
+ "datetime": "12/10/2019 07:10:30 a.m.",
+ "client": "5"
+},
+{
+ "channel": "Facebook",
+ "origin": "Guillermo Berrio",
+ "msg": "Buenos dias porfavor podrian decirme a que precios tienen los productos en promocion",
+ "datetime": "11/08/2019 09:10:30 a.m.",
+ "client": "1"
+},
+{
+ "channel": "Twitter",
+ "origin": "@JjMena",
+ "msg": "Hola, buenas tardes me podrian indicar hasta cuando tengo que usar el shampoo anticaspa para ver los cambios",
+ "datetime": "02/11/2019 02:10:30 p.m.",
+ "client": "2"
+},
+{
+ "channel": "Instagram",
+ "origin": "@Cc_carrasquilla",
+ "msg": "Hola, buenas noches me podrian ayudar a cambiar la clave del wifi",
+ "datetime": "12/12/2019 08:15:30 p.m.",
+ "client": "3"
+},
+{
+ "channel": "Whatsapp",
+ "origin": "+573124567789",
+ "msg": "Hola , buenas tardes , es que necesito saber a que precio tienen los tenis nikes runner",
+ "datetime": "13/11/2019 01:19:30 p.m.",
+ "client": "4"
+},
+{
+ "channel": "Whatsapp",
+ "origin": "+571234008900",
+ "msg": "Hola, para ver si me pueden ayudar a saber donde comprar la droga para el asma ",
+ "datetime": "12/05/2019 06:10:30 a.m.",
+ "client": "5"
+},
+{
+ "channel": "Facebook",
+ "origin": "Marcos Asprilla",
+ "msg": "Buenos dias porfavor podrian indicarme por donde va el pedido de mi producto",
+ "datetime": "07/10/2019 09:10:30 a.m.",
+ "client": "1"
+},
+{
+ "channel": "Twitter",
+ "origin": "@M_asriaas",
+ "msg": "Hola, buenas tardes podrian decirme si tienen crema para peinar cabello lazio en stock",
+ "datetime": "12/11/2019 02:10:30 p.m.",
+ "client": "2"
+},
+{
+ "channel": "Instagram",
+ "origin": "@Pp_suarez",
+ "msg": "Hola, buenas noches me podrian decir porque no puedo acceder a internet , llevo dias intentando y reiniciando el Router, estoy indignado con el servicio que brindan ",
+ "datetime": "12/10/2019 01:10:30 a.m.",
+ "client": "3"
+},
+{
+ "channel": "Whatsapp",
+ "origin": "+573104567789",
+ "msg": "Hola , buenas tardes ,tienen sueteres de orgullo LGTB en la tienda?",
+ "datetime": "12/11/2019 08:10:30 p.m.",
+ "client": "4"
+},
+{
+ "channel": "Whatsapp",
+ "origin": "+571234555590",
+ "msg": "Hola, me podrian decir porque no puedo revisar mi historial clinico en la pagina ",
+ "datetime": "04/10/2019 06:10:30 a.m.",
+ "client": "5"
+},
+{
+ "channel": "Facebook",
+ "origin": "Camilo Rave",
+ "msg": "Buenos dias porfavor podrian decirme que productos tienen en stock",
+ "datetime": "11/10/2019 10:10:30 a.m.",
+ "client": "1"
+},
+{
+ "channel": "Twitter",
+ "origin": "@Camila_Su",
+ "msg": "Hola, buenas tardes podrian decirme  si tienen pintalabios color rojo y a que precios ",
+ "datetime": "01/10/2019 04:11:30 p.m.",
+ "client": "2"
+},
+{
+ "channel": "Instagram",
+ "origin": "@Pc_123",
+ "msg": "Hola, buenas noches me podrian decir si pueden agendarme una cita para cambiar el router de internet",
+ "datetime": "12/12/2019 01:10:30 a.m.",
+ "client": "3"
+},
+{
+ "channel": "Whatsapp",
+ "origin": "+573164544789",
+ "msg": "Hola , buenas tardes , para saber si tienen pantalonetas deportivas y a que precios",
+ "datetime": "13/12/2019 03:12:32 p.m.",
+ "client": "4"
+},
+{
+ "channel": "Whatsapp",
+ "origin": "+571234097890",
+ "msg": "Hola, me podrian decir donde puedo consultar mi historial clinico ",
+ "datetime": "12/01/2019 06:10:30 a.m.",
+ "client": "5"
+},
+{
+ "channel": "Facebook",
+ "origin": "Perez Manuela",
+ "msg": "Buenos dias porfavor podrian ayudarme a usar el producto, porque me parece el colmo que no tenga indicaciones, osea que pesimo servicio el de ustedes ",
+ "datetime": "11/02/2019 07:10:30 a.m.",
+ "client": "1"
+},
+{
+ "channel": "Twitter",
+ "origin": "@Daniela_diaz",
+ "msg": "Hola, buenas tardes me podrian decir cuando puedo empezar a usar el shampoo ",
+ "datetime": "12/11/2019 09:10:30 p.m.",
+ "client": "2"
+},
+{
+ "channel": "Instagram",
+ "origin": "@Pe_caza",
+ "msg": "Hola, buenas noches me podrian decir como agendar una cita de mantenimiento del servicio de internet",
+ "datetime": "12/12/2019 12:13:30 a.m.",
+ "client": "3"
+},
+{
+ "channel": "Whatsapp",
+ "origin": "+573164567706",
+ "msg": "Hola , buenas tardes , lo que sucede es que pedi unas camisetas y me llegaron unos pantalonetas podrian enviarme los sueteres",
+ "datetime": "13/10/2019 08:10:30 p.m.",
+ "client": "4"
+},
+{
+ "channel": "Whatsapp",
+ "origin": "+571234567811",
+ "msg": "Hola, me pueden indicar como es el proceso para afiliar a mi hijo a la EPS ",
+ "datetime": "12/05/2019 06:10:30 a.m.",
+ "client": "5"
+},
+{
+ "channel": "Facebook",
+ "origin": "Juan Carabobo",
+ "msg": "Buenos dias porfavor podrian decirme en que tiendas de bogota tienen los productos en descuentos",
+ "datetime": "12/10/2019 11:10:30 a.m.",
+ "client": "1"
+},
+{
+ "channel": "Twitter",
+ "origin": "@h_alvez",
+ "msg": "Hola, buenas tardes podrian decirme si tienen shampoos en promocion y cuales",
+ "datetime": "12/07/2019 06:10:30 p.m.",
+ "client": "2"
+},
+{
+ "channel": "Instagram",
+ "origin": "@Ph_123",
+ "msg": "Hola, buenas noches me podrian decir porque mi internet esta muy lento ultimamente, no sirven ni para brindar un servicio adecuado , me retirare de esta empresa",
+ "datetime": "12/02/2019 12:10:34 a.m.",
+ "client": "3"
+},
+{
+ "channel": "Whatsapp",
+ "origin": "+573132567789",
+ "msg": "Hola , buenas tardes , podrian indicarme en que tiendas tienen zapatillas deportivas en descuentos",
+ "datetime": "13/11/2019 03:29:30 p.m.",
+ "client": "4"
+},
+{
+ "channel": "Whatsapp",
+ "origin": "+57134517090",
+ "msg": "Hola, me podrian decir cuando puedo agendar mi cita de planificacion  familiar ",
+ "datetime": "12/10/2019 06:12:35 a.m.",
+ "client": "5"
+},
+{
+ "channel": "Facebook",
+ "origin": "Palacios Mosquera Juancho",
+ "msg": "Buenos dias me podrian decir como puedo pagar el producto que quiero comprar",
+ "datetime": "11/10/2019 11:10:30 a.m.",
+ "client": "1"
+},
+{
+ "channel": "Twitter",
+ "origin": "@Mesa_clua",
+ "msg": "Hola, buenas tardes podrian decirme porque al usar su shampoo rejuvenecedor se me cae el cabello",
+ "datetime": "12/05/2019 02:10:30 p.m.",
+ "client": "2"
+},
+{
+ "channel": "Instagram",
+ "origin": "@iu_abjs",
+ "msg": "Hola, buenas noches me pueden informar de cuanto es la factura por los servicios de internet del mes de noviembre",
+ "datetime": "12/12/2019 12:10:55 a.m.",
+ "client": "3"
+},
+{
+ "channel": "Whatsapp",
+ "origin": "+573164561239",
+ "msg": "Hola , buenas tardes , me podrian devolver mi dinero , es que mi buso nike vino con un hueco en la zona genital",
+ "datetime": "04/11/2019 12:10:30 p.m.",
+ "client": "4"
+},
+{
+ "channel": "Whatsapp",
+ "origin": "+571233337890",
+ "msg": "Hola, me podrian indicar el proceso para des-afiliarme de su EPS , porque no sirven para nada llevo 2 meses buscando una cita para mi hijo",
+ "datetime": "12/05/2019 11:10:30 a.m.",
+ "client": "5"
+},
+{
+ "channel": "Facebook",
+ "origin": "Chaverra cesar",
+ "msg": "Buenos dias porfavor podrian decir cuando sacaran nuevos productos",
+ "datetime": "11/10/2019 09:12:12 a.m.",
+ "client": "1"
+},
+{
+ "channel": "Twitter",
+ "origin": "@Jeremy_sa",
+ "msg": "Hola, buenas tardes me podrian decir donde debo pagar la compra de mi shampoo revitalizador",
+ "datetime": "12/13/2019 01:11:10 p.m.",
+ "client": "2"
+},
+{
+ "channel": "Instagram",
+ "origin": "@Per_per",
+ "msg": "Hola, buenas noches me pueden indicar como mejorar la señal de mi router de internet",
+ "datetime": "12/11/2019 12:10:12 a.m.",
+ "client": "3"
+},
+{
+ "channel": "Whatsapp",
+ "origin": "+573164566789",
+ "msg": "Hola , buenas tardes , me podrian decir cuando llega la nueva coleccion de tenis nikes",
+ "datetime": "13/11/2019 02:16:38 p.m.",
+ "client": "4"
+},
+{
+ "channel": "Whatsapp",
+ "origin": "+572234567890",
+ "msg": "Hola,  me pueden indicar como agendar una cita con el orthopedista, porque es absurdo que por los metodos normales no se pueda , que pesima EPS",
+ "datetime": "12/10/2019 06:40:40 a.m.",
+ "client": "5"
+}
+]
