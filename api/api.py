@@ -1,10 +1,13 @@
 import json
 
 from rethinkdb import r
+from joblib import load
 import falcon
 import requests
 
 r.connect(host='localhost', port=28015, db='omega').repl()
+clf = load('model.joblib')
+vector = load('vector.joblib')
 
 
 def get_messages(channel, **kwargs):
@@ -28,7 +31,35 @@ def get_query(channel, kwargs):
         query = query.filter(r.row['client'] == kwargs['client'])
     if 'sender' in kwargs:
         query = query.filter(r.row['origin'] == kwargs['sender'])
+    if 'pluck' in kwargs:
+        query = query.pluck(kwargs['pluck'])
     return query
+
+
+class ReportResource:
+    def on_get(self, req, resp, sender=None, channel='Telegram'):
+        """Handles GET requests"""
+        qs = req.params
+        kwargs = {'pluck': 'msg'}
+        if sender:
+            kwargs['sender'] = sender
+        if 'client' in qs:
+            kwargs['client'] = qs['client']
+        messages = get_messages(channel.capitalize(), **kwargs)
+        report = []
+        for msg in messages:
+            value = clf.predict(vector.transform(msg['msg'].split('\s')))[0]
+            value = 'Positivo' if value == 1 else 'Negativo'
+            result = {
+                "msg": msg['msg'],
+                "feel": value
+            }
+            if 'filter' in qs:
+                if qs['filter'].lower() == value.lower():
+                    report.append(result)
+            else:
+                report.append(result)
+        resp.media = report
 
 
 class MessagesResource:
@@ -73,3 +104,4 @@ class MessagesResource:
 
 api = falcon.API()
 api.add_route('/messages/{channel}/{sender}', MessagesResource())
+api.add_route('/report/{channel}/{sender}', ReportResource())
