@@ -3,7 +3,7 @@ chardet==3.0.4
 falcon==2.0.0
 gunicorn==19.9.0
 idna==2.8
-joblib==0.14.0
+joblib==1.2.0
 numpy==1.17.3
 requests==2.22.0
 rethinkdb==2.3.0.post6
